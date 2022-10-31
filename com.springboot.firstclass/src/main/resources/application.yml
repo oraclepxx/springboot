@@ -1,0 +1,15 @@
+server:
+  port: 8080
+  
+
+order:
+  id: 123
+  name: food
+  price: 10.99
+  
+ 
+spring: 
+  mvc: 
+    favicon: 
+      enabled: false
+
